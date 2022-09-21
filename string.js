@@ -21,6 +21,7 @@ function showMsg() {
   return 'Hello world'
 }
 console.log(`${showMsg()}`) //'Hello world'
+
 // 对象属性的引用
 const obj = { id: 110, address: 'liaoning' }
 console.log(`id is ${obj.id},address is ${obj.address}`) //id is 110,address is liaoning
