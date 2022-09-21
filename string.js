@@ -14,6 +14,7 @@ console.log(`hello ${name}, time is ${time}`)
 // 模板字符串中可以是表达式
 let num1 = 10
 let num2 = 11
+
 console.log(`${1 + 1}`) // 2
 console.log(`${num1 + num2}`) // 21
 // 可以是函数
@@ -24,4 +25,5 @@ console.log(`${showMsg()}`) //'Hello world'
 
 // 对象属性的引用
 const obj = { id: 110, address: 'liaoning' }
+
 console.log(`id is ${obj.id},address is ${obj.address}`) //id is 110,address is liaoning
