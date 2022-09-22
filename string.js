@@ -17,6 +17,7 @@ let num2 = 11
 
 console.log(`${1 + 1}`) // 2
 console.log(`${num1 + num2}`) // 21
+
 // 可以是函数
 function showMsg() {
   return 'Hello world'
