@@ -15,3 +15,13 @@
 ##### 8- no-constant-condition
 ##### 9- no-control-regex
 ##### 10- no-debugger
+##### 11- no-dupe-args
+##### 12- no-dupe-class-members
+##### 13- no-dupe-else-if
+##### 14- no-dupe-keys
+##### 15- no-duplicate-case
+##### 16- no-empty-character-class
+##### 17- no-empty-pattern
+##### 18- no-ex-assign
+##### 19- no-fallthrough
+##### 20- no-func-assign
