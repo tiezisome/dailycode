@@ -25,3 +25,13 @@
 ##### 18- no-ex-assign
 ##### 19- no-fallthrough
 ##### 20- no-func-assign
+##### 21- no-import-assign
+##### 22- no-inner-declarations
+##### 23- no-invalid-regexp
+##### 24- no-irregular-whitespace
+##### 25- no-loss-of-precision
+##### 26- no-misleading-character-class
+##### 27- no-new-symbol
+##### 28- no-obj-calls
+##### 29- no-prototype-builtins
+##### 30- no-self-assign
