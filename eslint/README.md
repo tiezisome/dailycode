@@ -91,3 +91,5 @@
 ##### 42- use-isnan
 
 ##### 43- valid-typeof
+
+##### 44- no-mixed-spaces-and-tabs
